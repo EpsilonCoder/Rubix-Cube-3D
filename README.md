@@ -1,3 +1,6 @@
+![ EpsilonCoder ](https://img.shields.io/badge/work-on%20progress-red.svg)
+![ EpsilonCoder ](https://img.shields.io/badge/EpsilonCoder-Javascript-green)
+![ Java ](https://img.shields.io/badge/Made%20In-Senegal-yellowgreen)
 <pre>
  $$$$$$$$\ $$$$$$$\   $$$$$$\  $$$$$$\ $$\        $$$$$$\  $$\   $$\ 
  $$  _____|$$  __$$\ $$  __$$\ \_$$  _|$$ |      $$  __$$\ $$$\  $$ |
